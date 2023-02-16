@@ -4,7 +4,10 @@ class Todo extends Component {
 	render() {
 		return (
 			<div>
-				🍀 This Component Todo.jsx
+				{/* 🍀 This Component Todo.jsx */}
+				<div className="Todo">
+					<li>{this.props.task}</li>
+				</div>
 			</div>
 		)
 	}
