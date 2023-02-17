@@ -30,3 +30,11 @@
   font-size: 0.85rem;
   outline: none;
 }
+
+/* form > button > i {
+  margin-left: 50px;
+} */
+.fa-plus {
+  margin-left: 50px;
+  /* padding-left: 50px; */
+}
